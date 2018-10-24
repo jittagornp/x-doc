@@ -1,5 +1,7 @@
 # x-doc
 
+> Java e-Document Management 
+
 [![Build Status](https://travis-ci.org/jittagornp/x-doc.svg?branch=master)](https://travis-ci.org/jittagornp/x-doc)
 [![Coverage Status](https://coveralls.io/repos/github/jittagornp/x-doc/badge.svg?branch=master)](https://coveralls.io/github/jittagornp/x-doc?branch=master)
 [![codecov](https://codecov.io/gh/jittagornp/x-doc/branch/master/graph/badge.svg)](https://codecov.io/gh/jittagornp/x-doc)
